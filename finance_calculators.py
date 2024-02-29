@@ -2,7 +2,7 @@ import math
 
 # Show instructions, with details about the options they can choose.
 print("investment - to calculate the amount of interest you'll earn on your investment over time")
-print("mortgage   - to calculate the amount you'll have to pay monthly to fully replay your mortgage.")
+print("mortgage   - to calculate the amount you'll have to pay monthly to fully repay your mortgage.")
 
 # Input from the user, choosing the interest type. 
 calculator_selector = input("Enter either 'investment' or 'mortgage' from the menu above to proceed: ").lower()
